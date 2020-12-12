@@ -1,0 +1,3 @@
+Hello world to devops first project
+
+It is a hotfix file 
